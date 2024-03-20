@@ -1,0 +1,50 @@
+.jobby-logo-image {
+  height: 40px;
+  width: 135px;
+  display: flex;
+  align-self: center;
+}
+
+.navbar-header {
+  background-color: #272727;
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.home-jobs-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 200px;
+}
+
+.logout-button {
+  height: 40px;
+  width: 100px;
+  background-color: #4f46e5;
+  font-size: 15px;
+  font-family: roboto;
+  color: #ffffff;
+  border-width: 0;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+}
+
+.link-list {
+  list-style-type: none;
+  font-family: roboto;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.link-item {
+  font-family: roboto;
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: none;
+}
